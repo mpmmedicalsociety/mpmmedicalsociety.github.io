@@ -6,7 +6,7 @@ body {
 
 .gallery-container h1 {
     text-align: center;
-    margin-top: 70px;
+    margin-top: 40px;
     font-family: 'Droid Sans', sans-serif;
     font-weight: bold;
     color: #58595a;
@@ -14,7 +14,7 @@ body {
 
 .gallery-container p.page-description {
     text-align: center;
-    margin: 30px auto;
+    margin: 15px auto;
     font-size: 18px;
     color: #85878c;
 }
